@@ -1,3 +1,5 @@
+一番上
+
 <html>
   <head>
     <title>FPS 18's Uploader</title>
@@ -35,32 +37,17 @@
 
 </header>
 
-　　　<!--ヘッダー -->
-<div class="hero">
-
-    <h1><span>あなたの望むファイルを今すぐに。</span></h1>
-
-</div>
-
+<!-- ソース -->
 <div class="row content">
-    <h2 class="1">何ができるのですか?</h2>
-    <p>あなたの望むファイルを入手することができます。もちろん,無料で。</p>
-    <h2 class="2">誰がつくっているのですか?</h2>
-    <p>FPS 18という名前で活動している,日本人YouTuberです。<br>もちろん,実績はないです。</p>
-    <h2 class="3">合法なファイル</h2>
-    <p>この世の中には沢山の危険なファイルがあります。しかし,このサーバーにあるファイルが全て合法です。</p>
-    <h2 class="4">安全性</h2>
-    <p>このサーバー及びファイルは安全で,ハッキングされる心配性はありません。</p>
-	
-    <br><br>
-	
-	<center>
-    <div class="button1">
-    <a href="file.html">続ける</a>
-    </div>
-	</center>
+    <h2 class="">
+
+一番下
+
 </div>
-    <!-- -->
-  <script type="text/javascript" src="js/indexstyle.js"></script>
+
+<!-- 終了 -->
+  <script type="text/javascript" src="js/style.js"></script>
   </body>
 </html>
+
+
