@@ -7,6 +7,7 @@ $(window).scroll(function() {
     }
 });
 
+
 // Mobile Navigation
 $('.mobile-toggle').click(function() {
     if ($('.main_h').hasClass('open-nav')) {
